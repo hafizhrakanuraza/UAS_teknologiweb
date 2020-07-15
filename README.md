@@ -40,3 +40,5 @@ tampilan web profil
 
 tampilan CRUD
 ![Screenshot (155)](https://user-images.githubusercontent.com/46735563/87516399-86b3f480-c6a7-11ea-943b-e9067e6f17d2.png)
+
+# TERIMAKASIH
